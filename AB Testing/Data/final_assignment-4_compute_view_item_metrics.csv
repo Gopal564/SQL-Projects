@@ -1,0 +1,3 @@
+test_assignment,num_of_items,viewed_items,viewed_percent,views,average_views_per_item
+Control,1130,918,81.0,1916,1.6955752212389381
+Treatment,1068,890,83.0,1862,1.743445692883895
